@@ -8,6 +8,14 @@ namespace ConsoleApp1
 {
     class Tree
     {
+        //member varaibles 
+
+
+        // constructor
+
+
+        // member methods
+
 
     }
 }
