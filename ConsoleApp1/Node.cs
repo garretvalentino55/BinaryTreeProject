@@ -6,29 +6,30 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    public class Node
+    public class TreeNode
     {
         //member variables 
        public int value;
-       Node root;
+       public TreeNode leftNode;
+       public TreeNode rightNode;
+       
 
+
+       
 
 
 
         // constructor 
 
-        public Node()
+        public TreeNode()
         {
-            root = null;
+            leftNode = null;
+            rightNode = null;
         }
 
 
 
         // member methods
-        public void Add()
-        {
-
-        }
-
+      
     }
 }
